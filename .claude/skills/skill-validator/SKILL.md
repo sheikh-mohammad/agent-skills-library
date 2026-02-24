@@ -1,12 +1,6 @@
 ---
 name: skill-validator
-description: |
-  Validates skills against production-level criteria with 9-category scoring.
-  This skill should be used when reviewing, auditing, or improving skills to
-  ensure quality standards. Evaluates structure, content, user interaction,
-  documentation, domain standards, technical robustness, maintainability,
-  zero-shot implementation, and reusability. Returns actionable validation
-  report with scores and improvement recommendations.
+description: Validates skills against production-level criteria with 9-category scoring. This skill should be used when reviewing, auditing, or improving skills to ensure quality standards. Evaluates structure, content, user interaction, documentation, domain standards, technical robustness, maintainability, zero-shot implementation, and reusability. Returns actionable validation report with scores and improvement recommendations.
 ---
 
 # Skill Validator

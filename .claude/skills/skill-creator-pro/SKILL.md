@@ -1,10 +1,6 @@
 ---
 name: skill-creator-pro
-description: |
-  Creates production-grade, reusable skills that extend Claude's capabilities.
-  This skill should be used when users want to create a new skill, improve an
-  existing skill, or build domain-specific intelligence. Gathers context from
-  codebase, conversation, and authentic sources before creating adaptable skills.
+description: Creates production-grade, reusable skills that extend Claude's capabilities. This skill should be used when users want to create a new skill, improve an existing skill, or build domain-specific intelligence. Gathers context from codebase, conversation, and authentic sources before creating adaptable skills.
 ---
 
 # Skill Creator Pro
